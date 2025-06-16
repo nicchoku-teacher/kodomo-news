@@ -1,4 +1,3 @@
-# Kodomo News App (Fixed)
+# Kodomo News App (Fixed v2)
 
-TypeScript対応済み。NHKニュースを表示する Next.js アプリです。
-修正テストです
+TypeScript対応・node-fetch追加済み。NHKニュースを表示する Next.js アプリです。
