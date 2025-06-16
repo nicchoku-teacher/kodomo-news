@@ -1,3 +1,4 @@
+export const config = { runtime: 'nodejs' };
 
 import type { NextApiRequest, NextApiResponse } from 'next'
 import fetch from 'node-fetch'
