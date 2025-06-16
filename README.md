@@ -1,3 +1,3 @@
-# Kodomo News App
+# Kodomo News App (Fixed)
 
-NHK「やさしいニュース」を表示する Next.js アプリです。
+TypeScript対応済み。NHKニュースを表示する Next.js アプリです。
